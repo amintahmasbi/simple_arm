@@ -2,7 +2,7 @@
 A mini-project to better explain pub-sub architecture in ROS
 
 -### How to Launch the simulation?
-Make sure you have all the required ROS packages installed, and that this package is in your ROS workspace (assumed ot be `~/catkin_ws`.
+Download the VM provided by Udacity. Make sure you have all the required ROS packages installed, and that this package is in your ROS workspace (assumed ot be `~/catkin_ws`.
 
 ```sh
 $ cd ~/catkin_ws
